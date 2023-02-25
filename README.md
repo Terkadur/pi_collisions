@@ -1,4 +1,4 @@
-# pi_collisions
+# Pi Collisions
 
 Go to https://terkadur.github.io/pi_collisions/ to view the simulation.
 
@@ -11,3 +11,5 @@ To start the simulation, type "start()" into the console and press enter. The nu
 To restart the simulation, simply refresh the page.
 
 Use your mouse wheel to speed up or slow down the simulation (useful for late in the simulation when distances are large and velocities are small).
+
+To see pi emerge from the number of collisions, set M to a power of 100 (not too large).
